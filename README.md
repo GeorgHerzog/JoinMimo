@@ -1,4 +1,4 @@
-# JoinMimo
+# Work remotely at Mimo
 
 At Mimo, we believe that coding can open doors to careers and opportunities like few other skills. That's why we've rallied around the common goal of making coding universally accessible.
 
