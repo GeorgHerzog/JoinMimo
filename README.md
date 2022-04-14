@@ -6,7 +6,7 @@ With the Mimo app, we've made it easy and fun for more than 15 million beginners
 
 If you, too, want to make coding accessible to everybody, this is your opportunity to shape the future of tech education.
 
-Open Positions
+**Open Positions**
 
 1️⃣ Android Developer [https://jobs.getmimo.com/o/android-developer-3]
 
