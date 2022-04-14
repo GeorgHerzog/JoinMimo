@@ -9,7 +9,12 @@ If you, too, want to make coding accessible to everybody, this is your opportuni
 Open Positions
 
 1️⃣ Android Developer [https://jobs.getmimo.com/o/android-developer-3]
+
 2️⃣ iOS Developer [https://jobs.getmimo.com/o/ios-developer-wien]
+
 3️⃣ Curriculum Developer [https://jobs.getmimo.com/o/curriculum-developer-contract-and-100-remote]
+
 4️⃣ Product Manager [https://jobs.getmimo.com/o/product-manager]
+
 5️⃣ Content and Social Media Manager [https://jobs.getmimo.com/o/content-and-social-media-manager]
+
