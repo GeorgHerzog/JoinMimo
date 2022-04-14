@@ -1,4 +1,4 @@
-# Work remotely at Mimo
+# Work remotely at Mimo 🚀
 
 At Mimo, we believe that coding can open doors to careers and opportunities like few other skills. That's why we've rallied around the common goal of making coding universally accessible.
 
@@ -7,8 +7,9 @@ With the Mimo app, we've made it easy and fun for more than 15 million beginners
 If you, too, want to make coding accessible to everybody, this is your opportunity to shape the future of tech education.
 
 Open Positions
-[1]
-[2]
-[3]
-[4]
-[5]
+
+1️⃣ Android Developer [https://jobs.getmimo.com/o/android-developer-3]
+2️⃣ iOS Developer [https://jobs.getmimo.com/o/ios-developer-wien]
+3️⃣ Curriculum Developer [https://jobs.getmimo.com/o/curriculum-developer-contract-and-100-remote]
+4️⃣ Product Manager [https://jobs.getmimo.com/o/product-manager]
+5️⃣ Content and Social Media Manager [https://jobs.getmimo.com/o/content-and-social-media-manager]
